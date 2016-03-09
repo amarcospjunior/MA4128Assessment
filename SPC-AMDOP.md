@@ -3,6 +3,14 @@
 *Statistical process control (SPC) is a method of quality control which uses statistical methods. 
 SPC is applied in order to monitor and control a process.*
 
+<pre><code>
+# some random code here
+</code></pre>
+
+- Item 1 `CPk
+- Item 2
+- Item 3
+
 With statistical process control (SPC), one aims
 to detect and diagnose situations in which a
 process has gone out of statistical control. This problem
