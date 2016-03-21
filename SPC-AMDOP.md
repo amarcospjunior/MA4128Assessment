@@ -1,4 +1,4 @@
-**Statistic Process Control**
+**Process Capability Index**
 
 *Statistical process control (SPC) is a method of quality control which uses statistical methods. 
 SPC is applied in order to monitor and control a process.*
